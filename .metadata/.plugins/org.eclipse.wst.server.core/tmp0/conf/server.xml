@@ -153,7 +153,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="C:\Users\minchul\Desktop\jsp_project\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\Users\minchul\Desktop\jsp_project\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\Hello World" path="/Hello_World" reloadable="true" source="org.eclipse.jst.jee.server:Hello World"/></Host>
+      <Context docBase="C:\Users\minchul\Desktop\jsp_project\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\Users\minchul\Desktop\jsp_project\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\Hello World" path="/Hello_World" reloadable="true" source="org.eclipse.jst.jee.server:Hello World"/><Context docBase="C:\Users\minchul\Desktop\jsp_project\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\Lecture Evalution" path="/Lecture_Evalution" reloadable="true" source="org.eclipse.jst.jee.server:Lecture Evalution"/></Host>
     </Engine>
   </Service>
 </Server>

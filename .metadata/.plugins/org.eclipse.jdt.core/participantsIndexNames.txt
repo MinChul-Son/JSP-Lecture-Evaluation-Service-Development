@@ -1,3 +1,5 @@
 INDEX VERSION 1.131
+C:\Users\minchul\Desktop\jsp_project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2848312067.index
+\Lecture Evalution\src
 C:\Users\minchul\Desktop\jsp_project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\902969544.index
 \Hello World\src
